@@ -4,9 +4,9 @@ This folder contains the source code and data for USC DSCI-551 (21 Spring Data M
 
 Folders:
 
-All the data are stored in the data folder (for your convenience, I saved them in csv format, you can download, put them in the same directory as streamlit_twitch.py and use them for the UI).
+All the data are stored in the data folder (for your convenience, I saved them in csv format, you can download, put them in the same directory as streamlit_twitch.py and use them for the UI!!).
 
-All the pictures for the UI are stored in the picture folder (Before run streamlit_twitch.py, please put the pictures inside in the same directory as it).
+All the pictures for the UI are stored in the picture folder (Before run streamlit_twitch.py, please put the pictures inside in the same directory as it!!).
 
 Files:
 
