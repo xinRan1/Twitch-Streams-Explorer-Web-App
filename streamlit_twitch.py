@@ -75,6 +75,7 @@ def get_game_streamer(game_name):
 
 
 stream_data = fromSQL.streamers(cursor)
+
 LANG = []
 
 for lang in stream_data['language']:
@@ -89,6 +90,7 @@ stream_data['languages'] = LANG
 
 
 pd.to_datetime(stream_data['date'], format='%Y/%m/%d')
+stream_data['viewer_count'] = pd.to_numeric(stream_data['viewer_count'])
 
 languages = stream_data['languages'].unique()
 
