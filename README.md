@@ -1,6 +1,6 @@
 # Twitch-Streams-Explorer-Web-App
 This App gives people a shortcut to know latest information about Twitch.tv streams, streamers and games.
-If you wanna try out the UI, please go to the folder, project, which contains excecutable codes and testing data. Details seen readme file in project folder. Running time will be reduced with the testing codes.
+If you wanna try out the UI, please go to the folder, project, which contains executable codes and testing data. Details seen readme file in project folder. Running time will be reduced with the testing codes.
 
 Authors: Xinran Liang, Jiahang Song 
  (This Web App is used as final project for DSCI551 sp21 @ USC)
