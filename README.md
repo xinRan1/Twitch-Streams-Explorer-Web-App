@@ -7,7 +7,9 @@ Authors: Xinran Liang, Jiahang Song
 
 streamlit_twitch.py is the script for runing web application. Please run the command "streamlit run streamli_twitch.py" to start the web application. 
 twitch_to_mysql.py is our data crawler. (default mysql user and database used, may have to change)
+
 twitch.py contains several functions to request different kinds of data from Twitch. (user credentials needed)
+
 game_spark.py provides parallel processing using spark to analyze game data.
 mysql_to_df.py is the script for grabbing data from mysql and reformatted them for UI building. (used default mysql user and database)
 
