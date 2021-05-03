@@ -21,7 +21,7 @@ streamlit_twitch.py is the script for runing web application. Please run the com
 
 Required packages: 
 
-json, requests, mysql.connector, pandas, numpy, matplotlib, seaborn, datetime, statsmodels, streamlit, streamlit_player, plotly. 
+json, requests, mysql.connector, pandas, numpy, matplotlib, seaborn, datetime, statsmodels, streamlit, streamlit_player, plotly, pyspark. 
 
 (If necessary, run 'pip install streamlit' and/or 'pip install streamlit_player' and/or 'pip install plotly'first.)
 
