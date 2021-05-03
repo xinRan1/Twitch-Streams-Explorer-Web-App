@@ -3,8 +3,8 @@ import requests
 import sys
 
 base_url = 'https://api.twitch.tv/helix/'
-client_id = 'gp762nuuoqcoxypju8c569th9wz7q5'
-token = '8dce0b615cnar1j3hnrq1pjaehes8v'
+client_id = 'XXX'
+token = 'XXX'
 headers = {'Client-ID': client_id, 'Authorization': f'Bearer {token}',"Accept": "application/vnd.v5+json"}
 
 
