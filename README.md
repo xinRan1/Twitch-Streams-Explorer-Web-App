@@ -2,7 +2,7 @@
 This App gives people a shortcut to know latest information about Twitch.tv streams, streamers and games.
 
 Authors: Xinran Liang, Jiahang Song 
-This Web App is used as final project for DSCI551 sp21 @ USC
+ (This Web App is used as final project for DSCI551 sp21 @ USC)
 
 streamlit_twitch.py is the script for runing web application. Please run the command "streamlit run streamli_twitch.py" to start the web application. 
 twitch_to_mysql.py is our data crawler.
